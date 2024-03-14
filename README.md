@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="500" src="https://camo.githubusercontent.com/41ac6899b819f678f4e0c3b5744308db8cbd81c666c65c56215acc72ee3a7bf5/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f636f64696e672d616e696d617465642d6c6170746f702d666c6f772d73747265616d2d6a613034303130726d356f36387a666b2e77656270"  />
+<img align="right" height="450" src="https://camo.githubusercontent.com/41ac6899b819f678f4e0c3b5744308db8cbd81c666c65c56215acc72ee3a7bf5/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f636f64696e672d616e696d617465642d6c6170746f702d666c6f772d73747265616d2d6a613034303130726d356f36387a666b2e77656270"  />
 
 ###
 
-<h2 align="left">About Me</h2>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="left">I would like to learn</h2>
+<h3 align="left">I would like to learn</h3>
 
 ###
 
