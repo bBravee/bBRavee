@@ -1,25 +1,77 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">A computer science student passionate about frontend development</h3>
-<img align="right" alt="terminal" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bbravee&label=Profile%20views&color=0e75b6&style=flat" alt="bbravee" /> </p>
+###
 
-- 🌱 I’m currently learning **Arduino**
+<h2 align="center">Computer science student 🎓and junior frontend developer 💻  who prioritizes code cleanliness 🧼 and software quality</h2>
 
-- 👨‍💻 All of my projects are available at [https://jk-portfolio-website.vercel.app/](https://jk-portfolio-website.vercel.app/)
+###
 
-- 📫 How to reach me **kubakusmierczyk984@gmail.com**
+<img align="right" height="500" src="https://camo.githubusercontent.com/41ac6899b819f678f4e0c3b5744308db8cbd81c666c65c56215acc72ee3a7bf5/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f636f64696e672d616e696d617465642d6c6170746f702d666c6f772d73747265616d2d6a613034303130726d356f36387a666b2e77656270"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h2 align="left">About Me</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbravee&show_icons=true&locale=en&layout=compact" alt="bbravee" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbravee&show_icons=true&locale=en" alt="bbravee" /></p>
+<p align="left">🌱 I'm currently learning <b>C#</b><br>🎯 My goal is to become a great <b>full-stack developer</b><br>📚I love reading fantasy and personal development books<br>🌐 Visit my portfolio website: https://jk-portfolio-website.vercel.app/<br>📫 Reach me: <b>kubakusmierczyk984@gmail.com</b></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bbravee&" alt="bbravee" /></p>
+###
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=reactivex" height="45" alt="reactivex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jasmine/8A4182" height="45" alt="jasmine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="45" alt="karma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">I would like to learn</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity logo"  />
+</div>
+
+###
