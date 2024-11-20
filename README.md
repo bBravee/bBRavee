@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Computer science student 🎓and junior frontend developer 💻  who prioritizes code cleanliness 🧼 and software quality</h2>
+<h2 align="center">Computer science student 🎓and software developer 💻  who prioritizes code cleanliness 🧼 and software quality</h2>
 
 ###
 
